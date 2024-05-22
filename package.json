@@ -1,0 +1,16 @@
+{
+  "name": "sarvs_game",
+  "version": "1.0.0",
+  "description": "cli game that gives you chills",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin":"./index.mjs",
+  "author": "sarvesh",
+  "license": "ISC",
+  "dependencies": {
+    "@clack/prompts": "^0.7.0"
+  },
+  "type": "module"
+}
